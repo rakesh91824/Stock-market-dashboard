@@ -1,0 +1,7 @@
+hi! This is a Stock Monitoring Dashboard project
+
+I Used the technologies are HTML, CSS, JavaScript 
+ 
+I create this project based onthe API integration in this i call an API is "https://www.alphavantage.co/query?function=TIME_SERIES_MONTHLY&symbol=${symbol}&apikey=${apiKey}" with the help of Fecth method 
+ 
+and i also used jsDelivr is a free CDN (Content Delivery Network) for open source files. they are tightly integrated with Github and NPM, allowing us to automatically provide a reliable CDN service to almost every open source project out there.
