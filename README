@@ -1,9 +1,19 @@
-hi! This is a Stock Monitoring Dashboard project
+Stock Monitoring Dashboard
+This is a web-based application that allows users to monitor stock prices using data fetched from the Alpha Vantage API. The application is built using HTML, CSS, and JavaScript. Additionally, it uses jsDelivr for serving open-source files.
 
-I Used the technologies are HTML, CSS, JavaScript 
- 
-I create this project based onthe API integration in this i call an API is "https://www.alphavantage.co/query?function=TIME_SERIES_MONTHLY&symbol=${symbol}&apikey=${apiKey}" with the help of Fecth method 
- 
-and i also used jsDelivr is a free CDN (Content Delivery Network) for open source files. they are tightly integrated with Github and NPM, allowing us to automatically provide a reliable CDN service to almost every open source project out there.
-default usename:user@gmail.com
-default password:123456
+Features
+Fetch and display monthly time series data for a given stock symbol.
+User authentication with a default username and password.
+Responsive design for optimal viewing on different devices.
+Technologies Used
+HTML
+CSS
+JavaScript
+Alpha Vantage API
+jsDelivr CDN
+Getting Started
+To get a local copy up and running follow these simple steps.
+
+Prerequisites
+A modern web browser
+Internet connection to fetch data from the API
